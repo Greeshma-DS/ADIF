@@ -1,0 +1,6 @@
+Metric,Value
+Dataset Records,"1,041,670"
+XGBoost CV R2,0.3604
+ATE,0.59748
+Counterfactual +50%,0.030967
+Refutation Stability,Passed

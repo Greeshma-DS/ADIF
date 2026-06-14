@@ -1,0 +1,4 @@
+Model,CV_R2
+Linear Regression,-12.4217
+Random Forest,-0.1591
+XGBoost,0.3604

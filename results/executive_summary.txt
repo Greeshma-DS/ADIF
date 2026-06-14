@@ -1,0 +1,33 @@
+
+ADIF Executive Decision Report
+
+Generated: 2026-06-09 21:17:29.896943
+
+Summary:
+
+The ADIF framework analyzed two large-scale retail datasets
+containing more than 33 million purchase events.
+
+Root Cause Discovery identified:
+
+• Quantity Change as the dominant revenue driver
+  in Online Retail II (83.62%).
+
+• Orders as the dominant reorder driver
+  in Instacart (93.16%).
+
+Causal Inference confirmed positive causal effects:
+
+• Quantity Change → Revenue Change
+  ATE = 0.010647
+
+• Orders → Reorder Rate
+  ATE = 0.006417
+
+Counterfactual analysis demonstrated that
+increasing Quantity Change by 50%
+produces the highest expected revenue impact.
+
+The evidence indicates that customer purchasing
+behavior is the primary mechanism driving
+business performance across both datasets.

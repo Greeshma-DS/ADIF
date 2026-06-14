@@ -1,0 +1,3 @@
+Test,Estimated_Effect,Refuted_Effect,P_Value
+Random Common Cause,0.5974796089530007,0.5972704335791503,0.9
+Placebo Treatment,0.5974796089530007,-3.1780134079895106e-15,0.0
